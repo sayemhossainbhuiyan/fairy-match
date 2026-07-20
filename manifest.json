@@ -1,6 +1,6 @@
 {
-  "name": "Fairy Match",
-  "short_name": "Fairy Match",
+  "name": "Paruj Game",
+  "short_name": "Paruj Game",
   "description": "A magical memory matching game",
   "start_url": "./index.html",
   "scope": "./",
